@@ -1,5 +1,3 @@
 <p align="center">
-<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/083ba8bc-b4f0-41f6-b596-b281b3840212" />
+<img width="735" height="490" alt="Image" src="https://github.com/user-attachments/assets/2f6ecdcc-472f-435f-9280-652b6bf2b1f2" />
 <a href="https://mapleleafs.atabook.org" target="_blank">atabook</a>
-<p align="center">
-<a href="https://rentry.co/cardinal-chance" target="_blank">rentry</a>
