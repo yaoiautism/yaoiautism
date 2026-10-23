@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yaoiautism&abbreviated=true&style=plastic&label=The+supreme+leader&color=7E4D95" alt="The supreme leader counter" />
+</div>
 <p align="center">
 <img width="735" height="490" alt="Image" src="https://github.com/user-attachments/assets/5a4d5b8a-0c5c-43c0-870e-308b77a38faf" />
 <p align="center"> 
