@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yaoiautism&base=69000&abbreviated=true&style=plastic&label=The+supreme+leader&color=7E4D95" alt="The supreme leader counter" />
+  <img src="https://komarev.com/ghpvc/?username=yaoiautism&base=69000&abbreviated=true&style=plastic&label=the+supreme+leader&color=7E4D95" alt="The supreme leader counter" />
 </div>
 <p align="center">
 We all pretend to be the heroes on the good side, 
