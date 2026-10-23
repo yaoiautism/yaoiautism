@@ -7,4 +7,4 @@ but what if we're the villains on the other?
 <p align="center">
 <img width="735" height="490" alt="Image" src="https://github.com/user-attachments/assets/62610693-4ef1-4e8a-bd98-614f33fb7ddc" />
 <p align="center"> 
-<a href="https://eternalbeauty.atabook.org" target="_blank">atabook</a> 
+<a href="https://our-library.straw.page" target="_blank">♡</a> — <a href="https://eternalbeauty.atabook.org" target="_blank">atabook</a> 
