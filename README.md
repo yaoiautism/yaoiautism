@@ -11,7 +11,7 @@
  <details>
  <summary> nominate me nominate me </summary>
     
-    piddlesjet pt-everypony
+    pt-walk-of-fame pt-hall-of-media @t-everypony piddlesjet
     
   </details>
 </details>
