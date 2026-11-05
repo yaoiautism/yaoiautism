@@ -7,3 +7,12 @@
 <img width="735" height="490" alt="Image" src="https://github.com/user-attachments/assets/62610693-4ef1-4e8a-bd98-614f33fb7ddc" />
 <p align="center"> 
 <a href="https://our-library.straw.page" target="_blank">♡</a> — <a href="https://zam-gi.atabook.org" target="_blank">atabook</a> 
+<div align="center">
+ <details>
+ <summary> nominate me nominate me </summary>
+    
+    piddlesjet pt-everypony
+    
+  </details>
+</details>
+</div>
