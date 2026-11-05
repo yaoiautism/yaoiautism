@@ -9,8 +9,8 @@
 <a href="https://our-library.straw.page" target="_blank">♡</a> — <a href="https://zam-gi.atabook.org" target="_blank">atabook</a> 
 <div align="center">
  <details>
- <summary> nominations wweeh </summary>
-    <a href="https://github.com/pt-walk-of-fame" target="_blank">pt-walk-of-fame</a> <a href="https://github.com/pt-hall-of-media" target="_blank">pt-hall-of-media</a> <a href="https://github.com/pt-everypony" target="_blank">pt-everypony</a> <a href="https://github.com/piddlesjet" target="_blank">piddlesjet</a>
+ <summary> nominations wweeh thenkyu </summary>
+    <a href="https://github.com/pt-walk-of-fame" target="_blank">pt-walk-of-fame</a> <a href="https://github.com/pt-hall-of-media" target="_blank">pt-hall-of-media</a> <a href="https://github.com/pt-everypony" target="_blank">pt-everypony</a> <a href="https://github.com/piddlesjet" target="_blank">piddlesjet</a> <a href="https://github.com/pony-town-nominations" target="_blank">pony-town-nominations</a>
     
   </details><a 
 </details>
