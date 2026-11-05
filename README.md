@@ -10,9 +10,8 @@
 <div align="center">
  <details>
  <summary> nominate me nominate me </summary>
+    <a href="https://github.com/pt-walk-of-fame" target="_blank">pt-walk-of-fame</a> <a href="https://github.com/pt-hall-of-media" target="_blank">pt-hall-of-media</a> <a href="https://github.com/pt-everypony" target="_blank">pt-everypony</a> <a href="https://github.com/piddlesjet" target="_blank">piddlesjet</a>
     
-   @pt-walk-of-fame @pt-hall-of-media @pt-everypony @piddlesjet
-    I'm too lazy to link it
   </details><a 
 </details>
 </div>
