@@ -11,7 +11,7 @@
  <details>
  <summary> nominate me nominate me </summary>
     
-    @pt-walk-of-fame @pt-hall-of-media @pt-everypony @piddlesjet
+   @pt-walk-of-fame @pt-hall-of-media @pt-everypony @piddlesjet
     I'm too lazy to link it
   </details><a 
 </details>
