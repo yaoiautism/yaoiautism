@@ -10,7 +10,7 @@
 <div align="center">
  <details>
  <summary> nominations wweeh thenkyu </summary>
-    <a href="https://github.com/pt-walk-of-fame" target="_blank">pt-walk-of-fame</a> <a href="https://github.com/pt-hall-of-media" target="_blank">pt-hall-of-media</a> <a href="https://github.com/pt-everypony" target="_blank">pt-everypony</a> <a href="https://github.com/piddlesjet" target="_blank">piddlesjet</a> <a href="https://github.com/pony-town-nominations" target="_blank">pony-town-nominations</a>
+    <a href="https://github.com/pt-walk-of-fame" target="_blank">pt-walk-of-fame</a> <a href="https://github.com/pt-hall-of-media" target="_blank">pt-hall-of-media</a> <a href="https://github.com/pt-everypony" target="_blank">pt-everypony</a> <a href="https://github.com/piddlesjet" target="_blank">piddlesjet</a> <a href="https://github.com/pony-town-nominations" target="_blank">pony-town-nominations</a> <a href="https://github.com/THENUMBERONESHIPPER" target="_blank">THENUMBERONESHIPPER</a>
     
   </details><a 
 </details>
